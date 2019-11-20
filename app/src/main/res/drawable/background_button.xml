@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- raio de arredondamento do retangulo -->
+    <corners android:radius="5dp"></corners>
+    <!-- cor de preenchimento solida do fundo. Poderia ser gradient. -->
+    <solid android:color="@android:color/black"/>
+    <!--  grossura da linha que rodeia o botao -->
+    <stroke android:width="1dp"/>
+</shape>
